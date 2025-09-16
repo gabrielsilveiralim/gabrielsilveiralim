@@ -2,7 +2,7 @@
 
 **`Estudante de Informática`**
 
-Me chamo Gabriel Lima, estou no último ano do ensino médio no IEMA Bacelar Portela, onde curso Técnico em Informática para a Internet. Busco uma oportunidade para colocar em prática meus conhecimentos, aprimorar minhas habilidades e adquirir novas experiências na área de tecnologia. Tenho experiência em HTML, CSS, JavaScript, Experiência do Usuário e Interface do Usuário, utilizando o aplicativo de prototipação Figma, além de conhecimento em Tailwind CSS, React js e Python. Estou sempre em busca de conhecer e aprender novas linguagens de programação, visando meu crescimento profissional
+
 <p align="left">
 
 
