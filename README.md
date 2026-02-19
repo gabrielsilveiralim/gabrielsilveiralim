@@ -1,6 +1,5 @@
 #  Gabriel Lima
 
-**`Estudante de Informática`**
 
 
 <p align="left">
@@ -9,16 +8,6 @@
 ---
 
 ###  Linguagens e Tecnologias
-
-
-<img 
-    align="left" 
-    alt="typescript" 
-    title="typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
 
 
 <img 
