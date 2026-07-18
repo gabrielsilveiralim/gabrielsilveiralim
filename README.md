@@ -2,8 +2,6 @@
 
 <h3 align="left"> Backend Developer | Node.js - TypeScript </h3>
 
----
-
 ### 🛠️ Tecnologias
 
 <p align="left">
